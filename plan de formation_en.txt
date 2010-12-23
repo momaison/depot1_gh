@@ -12,5 +12,5 @@
 
 Some JM thoughts :
 
-- Je pense qu'on peut apprendre l'offre produit et des points techniques de front.
+- I think we can learn product offer and technical points upfront
 - Another traducted remark
