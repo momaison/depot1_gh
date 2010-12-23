@@ -12,5 +12,5 @@
 
 Some JM thoughts :
 
-- I think we can learn product offer and technical points upfront
+- I think we can learn product offer and technical points up front
 - Another traducted remark
