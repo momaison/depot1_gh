@@ -1,0 +1,15 @@
+
+
+
+1 - Understand product offer
+2 - TMS Architecture
+3 - Aget : techno
+4 - Les serveurs : technique / fonctionnel
+5 - Dev code -> Particularités de l'agent
+6 - Tests utiles
+
+
+
+En vrac réfléxions jm : 
+
+- Je pense qu'on peut apprendre l'offre produit et des points techniques de front.
