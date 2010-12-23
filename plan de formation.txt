@@ -18,6 +18,12 @@ En vrac réfléxions jm :
 
 
 
+
+
+
+
+
+
 A propos de l'Agent : 
 
 Point techniques méritant à mon avis un "cours" ou un "module de travail" (par module de travail, je pense à des pré projets à compléter par exemple pour que le formé touche une notion importante de l'agent : par exemple pour une familiarisation avec maven, on pourrait avoir un pré projet et demander que le formé compléte - seul - le projet pour réussir à fabrisuer un zip contenant tel ou tel fichier de sorte à ce qu'ils voit 60% de ce qu'on fait d'habitude lorsque l'on package les produits". ). Je marque solo quand je pense que le formé peut effectuer le travail de formation seul s'il a le bon support :
